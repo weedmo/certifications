@@ -35,7 +35,7 @@ Provided by 현대엔지비 / 현대자동차 as part of the Match-Up Program.
 
 ---
 
-## 🌍 Leadership & Soft Skills
+## 🌍 Etc
 
 **Folder:** `etc/`
 

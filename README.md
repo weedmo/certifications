@@ -1,6 +1,6 @@
 # 📜 Certifications & Course Completions
 
-This repository contains selected certificates and credentials I've earned through online courses, official programs, and training related to **AI, robotics, autonomous driving, and software engineering**.
+This repository contains certificates and credentials I've earned through online courses, official programs, and training related to **AI, robotics, autonomous driving, and software engineering**.
 
 ---
 

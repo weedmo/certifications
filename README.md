@@ -27,6 +27,15 @@ Provided by 현대엔지비 / 현대자동차 as part of the Match-Up Program.
 
 ---
 
+## 🎯 Udemy – ROS2 Navigation Stack (Nav2)
+
+**Folder:** `Udemy/`
+
+- [✔️ ROS2 Navigation Stack (Nav2) for Autonomous Robots](https://github.com/weedmo/certifications/blob/main/Udemy/Nav2.pdf)
+
+Hands-on course covering the ROS2 Navigation Stack, localization, mapping, and autonomous robot navigation.
+
+---
 ## 🛠 Korean National Qualifications
 
 **Folder:** `certification/`

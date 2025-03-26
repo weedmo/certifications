@@ -20,7 +20,7 @@ All courses provided by [DeepLearning.AI](https://www.deeplearning.ai/) and inst
 
 **Folder:** `NGV/`
 
-- [✔️ Judgment & Control Technology (기초)]([./NGV/HyundaiNGV_ControlJudgement.pdf](https://github.com/weedmo/certifications/blob/main/NGV/HyndaiNGV_certification.pdf))
+- [✔️ HyndaiNGV_certification](https://github.com/weedmo/certifications/blob/main/NGV/HyndaiNGV_certification.pdf)
 - [✔️ 직무능력 인증서 – 제어, 판단]([./NGV/HyundaiNGV_Capability.pdf](https://github.com/weedmo/certifications/blob/main/NGV/Job%20Competency%20Certificate_Control_Judgment.pdf))
 
 Provided by 현대엔지비 / 현대자동차 as part of the Match-Up Program.

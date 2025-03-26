@@ -48,6 +48,6 @@ Hands-on course covering the ROS2 Navigation Stack, localization, mapping, and a
 
 **Folder:** `etc/`
 
-- [✔️ 2025 Global Leadership Challenge – NSI x UNESCO]([./etc/NSI_GlobalLeadership.pdf](https://github.com/weedmo/certifications/blob/main/etc/%5B2025%20Global%20Leadership%20Challenge%20Online%20Class%5D%20Certificate%20of%20Completion.pdf))
-- [✔️ Simulink Onramp - MathWorks]([./etc/NSI_GlobalLeadership.pdf](https://github.com/weedmo/certifications/blob/main/etc/simulink%20onramp.pdf))
-- [✔️ Automotive Middleware SOMEIP - Sungkyunkwan University]([./etc/NSI_GlobalLeadership.pdf](https://github.com/weedmo/certifications/blob/main/etc/Automotive%20Middleware%20SOMEIP.jpg))
+- [✔️ 2025 Global Leadership Challenge – NSI x UNESCO](https://github.com/weedmo/certifications/blob/main/etc/%5B2025%20Global%20Leadership%20Challenge%20Online%20Class%5D%20Certificate%20of%20Completion.pdf)
+- [✔️ Simulink Onramp - MathWorks](https://github.com/weedmo/certifications/blob/main/etc/simulink%20onramp.pdf)
+- [✔️ Automotive Middleware SOMEIP - Sungkyunkwan University](https://github.com/weedmo/certifications/blob/main/etc/Automotive%20Middleware%20SOMEIP.jpg)

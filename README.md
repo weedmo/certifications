@@ -40,7 +40,7 @@ Hands-on course covering the ROS2 Navigation Stack, localization, mapping, and a
 
 **Folder:** `certification/`
 
-- [✔️ Adsp]([./certification/Simulink_Onramp.pdf](https://github.com/weedmo/certifications/blob/main/certification/Adsp.pdf))
+- [✔️ Adsp](https://github.com/weedmo/certifications/blob/main/certification/Adsp.pdf)
 
 ---
 

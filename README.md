@@ -12,7 +12,8 @@ This repository contains certificates and credentials I've earned through online
 - [✔️ Structuring Machine Learning Projects](https://github.com/weedmo/certifications/blob/main/Cousera/Coursera%20Structuring%20Machine%20Learning%20Projects.pdf)
 - [✔️ Hyperparameter Tuning & Optimization](https://github.com/weedmo/certifications/blob/main/Cousera/Coursera%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%20Regularization%20and%20Optimization.pdf)
 - [✔️ Convolution Neural Networks](https://github.com/weedmo/certifications/blob/main/Cousera/Convolution%20neural%20networks.pdf)
-  
+- [✔️ Convolution Neural Networks](https://github.com/weedmo/certifications/blob/main/Cousera/Sequence%20Models.pdf)
+- 
 All courses provided by [DeepLearning.AI](https://www.deeplearning.ai/) and instructed by Andrew Ng.
 
 ---

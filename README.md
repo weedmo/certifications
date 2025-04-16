@@ -29,7 +29,7 @@ Provided by 현대엔지비 / 현대자동차 as part of the Match-Up Program.
 
 ---
 
-## 🎯 Udemy – ROS2 Navigation Stack (Nav2)
+## 🤖 Udemy – ROS2 Navigation Stack (Nav2)
 
 **Folder:** `Udemy/`
 

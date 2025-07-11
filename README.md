@@ -3,6 +3,36 @@
 This repository contains certificates and credentials I've earned through online courses, official programs, and training related to **AI, robotics, autonomous driving, and software engineering**.
 
 ---
+📁 certifications/
+├── 📁 Cousera/
+│   ├── ✔️ Coursera Neural Networks and Deep Learning.pdf
+│   ├── ✔️ Coursera Structuring Machine Learning Projects.pdf
+│   ├── ✔️ Coursera Improving Deep Neural Networks Hyperparameter Tuning Regularization and Optimization.pdf
+│   ├── ✔️ Convolution neural networks.pdf
+│   └── ✔️ Sequence Models.pdf
+│       └─ provided by DeepLearning.AI (Andrew Ng)
+│
+├── 📁 NGV/
+│   ├── ✔️ HyndaiNGV_certification.pdf
+│   └── ✔️ Job Competency Certificate_Control_Judgment.pdf
+│       └─ provided by Hyundai NGV / Match-Up Program
+│
+├── 📁 Udemy/
+│   └── ✔️ Nav2.pdf
+│       └─ ROS2 Navigation Stack (localization, mapping, navigation)
+│
+├── 📁 certification/
+│   └── ✔️ Adsp.pdf
+│
+├── 📁 etc/
+│   ├── ✔️ 2025 Global Leadership Challenge – NSI x UNESCO.pdf
+│   ├── ✔️ simulink onramp.pdf
+│   ├── ✔️ Automotive Middleware SOMEIP.jpg
+│   └── ✔️ Doosan Robotics Bootcamp 수료증.pdf
+│
+└── 📁 Awards_History/
+    ├── 🏅 2024 미래형 자동차 자율주행 SW 경진대회 상장.pdf
+    └── 🏅 4D 어드밴처 디자인 듀얼링킹 역량 경진대회 상장.pdf
 
 ## 🧠 Coursera – Deep Learning Specialization
 
